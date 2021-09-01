@@ -1,2 +1,4 @@
 # tradingBot
-Trading Bot Algorithm for QuantConnect Tradding Platform
+Trading Bot Algorithm for QuantConnect Tradding Platform<br>
+
+## Note
